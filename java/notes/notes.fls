@@ -83,6 +83,12 @@ INPUT l:/texlive/2020/texmf-dist/tex/latex/tools/tabularx.sty
 INPUT l:/texlive/2020/texmf-dist/tex/latex/tools/tabularx.sty
 INPUT l:/texlive/2020/texmf-dist/tex/latex/tools/array.sty
 INPUT l:/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+INPUT l:/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+INPUT l:/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+INPUT l:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT l:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT l:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT l:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
 INPUT l:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
 INPUT l:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
 INPUT l:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
@@ -92,6 +98,8 @@ INPUT l:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
 INPUT notes.aux
 INPUT notes.aux
 OUTPUT notes.aux
+INPUT l:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT l:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT l:/texlive/2020/texmf-dist/tex/generic/ctex/zhmap/ctex-zhmap-windows.tex
 INPUT l:/texlive/2020/texmf-dist/tex/generic/ctex/zhmap/ctex-zhmap-windows.tex
 INPUT l:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
@@ -157,6 +165,7 @@ INPUT l:/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong94.tfm
 INPUT l:/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong7b.tfm
 INPUT l:/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong61.tfm
 INPUT l:/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong83.tfm
+INPUT l:/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong6d.tfm
 INPUT l:/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong97.tfm
 INPUT l:/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong89.tfm
 INPUT l:/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong78.tfm
@@ -169,6 +178,7 @@ INPUT l:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm
 INPUT l:/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/unisong/unisongsl7b.tfm
 INPUT l:/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/unisong/unisongsl8b.tfm
 INPUT notes.aux
+INPUT c:/Windows/Fonts/simsun.ttc
 INPUT c:/Windows/Fonts/simsun.ttc
 INPUT c:/Windows/Fonts/simsun.ttc
 INPUT c:/Windows/Fonts/simsun.ttc
