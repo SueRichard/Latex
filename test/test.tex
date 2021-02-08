@@ -1,13 +1,43 @@
 \documentclass[utf8]{ctexart}
 \usepackage{tabularx}
 \begin{document}
-\section{头段}
+\title{这是latex的笔记}
+\author{黄浩}
+\date{2021年2月8日18:55:58}
+\maketitle
+\tableofcontents
+\part{}
+%\chapter{嗯？}
+\section{}
+\subsection{}
+\subsubsection{}
+\paragraph{这是新的一个paragraphy}
+\subparagraph{}
+\section{这是头段}
 \begin{abstract}
-    abstract contend %ceshi
+    abstract contend 摘要%ceshi
 \end{abstract}
 \setcounter{page}{7}
 \section{第一段络}
 \subsection{第一副段}
+这是普通文本
+这里上方加入了换行，这是测试\paragraph{}测试段落\\新的一行\newline 这里没有换行
+\begin{itemize}
+    \item java
+    \item text
+    \item c
+    \item
+\end{itemize}
+\begin{enumerate}
+    \item 测试枚举
+    \item 测试
+    \item 1111
+\end{enumerate}
+\begin{description}
+    \item[描述] 测试
+    \item[描述] 描述具体
+    \item[黄浩] 胡蕾
+\end{description}
 \begin{table}
     \begin{tabular}{{p{3cm}|p{3cm}|p{3cm}}}
         \hline %并未显示表格
@@ -17,10 +47,10 @@
 \newpage
 \section{第二段}
 
-\indent here \par \bf comes hh ! \LaTeX!  
+\indent here \par \bf comes hh ! \LaTeX!
 
-    $$y = \sum_{b=0}^{a} x^2$$
-    $\Delta$
+$$y = \sum_{b=0}^{a} x^2$$
+$\Delta$
 \end{document}
 \begin{equation}
     x = a_0+\cfrac{1}{
@@ -31,6 +61,6 @@
                 }
             }
         }
-        }  
+    }
 \end{equation}
 

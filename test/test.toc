@@ -1,0 +1,12 @@
+\contentsline {part}{第一部分\hspace {1em}}{1}%
+\contentsline {section}{\numberline {1}}{1}%
+\contentsline {subsection}{\numberline {1.1}}{1}%
+\contentsline {subsubsection}{\numberline {1.1.1}}{1}%
+\contentsline {paragraph}{这是新的一个paragraphy}{1}%
+\contentsline {subparagraph}{}{7}%
+\contentsline {section}{\numberline {2}这是头段}{7}%
+\contentsline {section}{\numberline {3}第一段络}{7}%
+\contentsline {subsection}{\numberline {3.1}第一副段}{7}%
+\contentsline {paragraph}{}{7}%
+\contentsline {subsection}{\numberline {3.2}第二副段}{7}%
+\contentsline {section}{\numberline {4}第二段}{8}%
